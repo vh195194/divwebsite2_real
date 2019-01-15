@@ -5,7 +5,7 @@ margin-left: auto;
 margin-right: auto;
 }
 
-.headertop {
+.headertop { 
     height: 60px;
     background-color: aqua
 }
@@ -41,5 +41,17 @@ margin-right: auto;
     height: 40px;
     background-color: forestgreen;
     clear: left;
-        
+ }
+
+p {
+    font-family:Anton;
+}
+
+h1 {
+    font-family:Indie Flower;
+}
+
+
+body {
+    background-image: url(fancy-cushion.png);
 }
